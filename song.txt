@@ -6,3 +6,4 @@ Shield by shield
 
 some more lines
 to add
+unpack the downloaded 7z file into an arbitrary directory of your choice (don't unpack over an existing installation!),
